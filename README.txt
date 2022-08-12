@@ -1,3 +1,8 @@
-Este projeto foi realizado pelo curso da DIO através do Bootcamp Santander e ministrado pelo professor Lucas Vilaboim.
+## Dio - BootCamp Santander
+### Fundamentos do HTML e CSS
 
-Esta Atividade é uma base sobre HTML5 e CSS3.
+
+<div>
+	<p> Nesta pasta possui uma atividade referente a fundamentos de HTML e CSS realizada pelo curso da DIO através do Bootcamp Santander</p>
+
+</div>
